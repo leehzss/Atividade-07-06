@@ -40,5 +40,5 @@ d) Um backup do seu repositório local
 
 Dissertativa
 -Explique o conceito de branching e como isso é útil no desenvolvimento de software.
-# A branching facilita a criação de ramificações, para desenvolver novas funcionalidades isoladamente, funcionando com linhas de desenvolvimento independentes..
+# A branching facilita a criação de ramificações, para desenvolver novas funcionalidades isolamente.
 
